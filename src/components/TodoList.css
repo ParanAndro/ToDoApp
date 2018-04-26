@@ -1,0 +1,12 @@
+.TodoList {
+	list-style: none;
+	padding: 2em;
+}
+
+.TodoList li {
+	padding-bottom: 1em;
+}
+
+.TodoList li button {
+	margin-right: 1em;
+}
